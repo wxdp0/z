@@ -1,0 +1,6 @@
+{
+  "TOKEN_A":    "token_stream",
+  "TOKEN_B":    "token_view",
+  "GUILD_ID":   "id_sever",
+  "CHANNEL_ID": "id_kênh_voice"
+}
